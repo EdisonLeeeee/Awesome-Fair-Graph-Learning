@@ -15,6 +15,7 @@
 + FairMod: Fair Link Prediction and Recommendation via Graph Modification, [[arXiv]](https://arxiv.org/abs/2201.11596)
 + Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness, [[AAAI]](https://arxiv.org/abs/2202.10816)
 + Fair Node Representation Learning via Adaptive Data Augmentation, [[arXiv]](https://arxiv.org/abs/2201.08549)
++ Subgroup Fairness in Graph-based Spam Detection, [[arXiv]](https://arxiv.org/abs/2204.11164)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
