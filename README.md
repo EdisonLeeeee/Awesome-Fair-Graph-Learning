@@ -17,6 +17,7 @@
 + Fair Node Representation Learning via Adaptive Data Augmentation, [[arXiv]](https://arxiv.org/abs/2201.08549)
 + Subgroup Fairness in Graph-based Spam Detection, [[arXiv]](https://arxiv.org/abs/2204.11164)
 + FairSR: Fairness-aware Sequential Recommendation through Multi-Task Learning with Preference Graph Embeddings, [[ACM TIST]](https://arxiv.org/abs/2205.00313)
++ (Survey) A Survey on Fairness for Machine Learning on Graphs, [[arXiv]](https://arxiv.org/abs/2205.05396)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
