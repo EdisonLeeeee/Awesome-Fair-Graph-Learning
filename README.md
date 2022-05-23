@@ -18,6 +18,7 @@
 + Subgroup Fairness in Graph-based Spam Detection, [[arXiv]](https://arxiv.org/abs/2204.11164)
 + FairSR: Fairness-aware Sequential Recommendation through Multi-Task Learning with Preference Graph Embeddings, [[ACM TIST]](https://arxiv.org/abs/2205.00313)
 + (Survey) A Survey on Fairness for Machine Learning on Graphs, [[arXiv]](https://arxiv.org/abs/2205.05396)
++ FairNorm: Fair and Fast Graph Neural Network Training, [[arXiv]](https://arxiv.org/abs/2205.09977)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
@@ -40,7 +41,7 @@
 + Fair Graph Auto-Encoder for Unbiased Graph Representations with Wasserstein Distance, [[ICDM]](https://ieeexplore.ieee.org/document/9679109)
 + A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning, [[ICDM]](https://ieeexplore.ieee.org/document/9679093)
 + Learning Fair Representations for Recommendation: A Graph-based Perspective, [[WWW]](https://arxiv.org/abs/2102.09140), [[Code]](https://github.com/newlei/FairGo)
-+ FairNorm: Fair and Fast Graph Neural Network Training, [[arXiv]](https://arxiv.org/abs/2205.09977)
+
 
 ## 2020
 + Debiasing knowledge graph embeddings, [[EMNLP]](https://aclanthology.org/2020.emnlp-main.595.pdf)
