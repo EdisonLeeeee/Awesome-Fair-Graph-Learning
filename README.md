@@ -24,7 +24,7 @@
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
 + On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections, [[ICLR]](https://openreview.net/forum?id=xgGS6PmzNq6), [[Code]](https://github.com/brandeis-machine-learning/FairAdj)
 + Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information, [[WSDM]](https://arxiv.org/abs/2009.01454), [[Code]](https://github.com/EnyanDai/FairGNN)
-+ Subgroup Generalization and Fairness of Graph Neural Networks, [[NeurIPS]](https://arxiv.org/abs/2106.15535)
++ Subgroup Generalization and Fairness of Graph Neural Networks, [[NeurIPS]](https://arxiv.org/abs/2106.15535), [[Code]](https://github.com/TheaperDeng/GNN-Generalization-Fairness)
 + Towards a Unified Framework for Fair and Stable Graph Representation Learning, [[UAI]](https://arxiv.org/abs/2102.13186)
 + Individual Fairness for Graph Neural Networks: A Ranking based Approach, [[KDD]](https://dl.acm.org/doi/abs/10.1145/3447548.3467266), [[Code]](https://github.com/yushundong/REDRESS)
 + Fair Representation Learning for Heterogeneous Information Networks, [[ICWSM]](https://arxiv.org/abs/2104.08769), [[Code]](https://github.com/HKUST-KnowComp/Fair_HIN)
