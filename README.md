@@ -20,6 +20,7 @@
 + (Survey) A Survey on Fairness for Machine Learning on Graphs, [[arXiv]](https://arxiv.org/abs/2205.05396)
 + FairNorm: Fair and Fast Graph Neural Network Training, [[arXiv]](https://arxiv.org/abs/2205.09977)
 + Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage, [[arXiv]](https://arxiv.org/abs/2206.03426), [[Code]](https://github.com/YuWVandy/FairVGNN)
++ On Graph Neural Network Fairness in the Presence of Heterophilous Neighborhoods, [[KDD workshop]](https://arxiv.org/abs/2207.04376) 
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
