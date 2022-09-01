@@ -21,6 +21,7 @@
 + FairNorm: Fair and Fast Graph Neural Network Training, [[arXiv]](https://arxiv.org/abs/2205.09977)
 + Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage, [[arXiv]](https://arxiv.org/abs/2206.03426), [[Code]](https://github.com/YuWVandy/FairVGNN)
 + On Graph Neural Network Fairness in the Presence of Heterophilous Neighborhoods, [[KDD workshop]](https://arxiv.org/abs/2207.04376) 
++ GUIDE: Group Equality Informed Individual Fairness in Graph Neural Network, [[KDD]](http://www.ece.virginia.edu/~jl6qk/paper/KDD22_Group_Informed_Individual_Fairness.pdf), [[Code]](https://github.com/weihaosong/GUIDE)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
