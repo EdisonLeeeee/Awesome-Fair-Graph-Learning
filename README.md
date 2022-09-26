@@ -10,7 +10,7 @@
 + Debiased Graph Neural Networks with Agnostic Label Selection Bias, [[TNNLS]](https://arxiv.org/abs/2201.07708), [[Code]](https://github.com/googlebaba/TNNLS2022-DGNN)
 + FairRankVis: A Visual Analytics Framework for Exploring Algorithmic Fairness in Graph Mining Models, [[IEEE Trans. Vis. Comput. Graph.]](https://pubmed.ncbi.nlm.nih.gov/34587074/), [[Code]](https://github.com/tiankaixie/fairrankvis)
 + FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing, [[arXiv]](https://arxiv.org/abs/2201.03681), [[Code]](https://github.com/royull/FairEdit)
-+ RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network, [[WWW]](https://arxiv.org/abs/2202.13547)
++ RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network, [[WWW]](https://arxiv.org/abs/2202.13547)[[Code]](https://github.com/jiank2/RawlsGCN)
 + Fair Graph Representation Learning with Imbalanced and Biased Data, [[WSDM]](https://dl.acm.org/doi/abs/10.1145/3488560.3502218)
 + FairMod: Fair Link Prediction and Recommendation via Graph Modification, [[arXiv]](https://arxiv.org/abs/2201.11596)
 + Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness, [[AAAI]](https://arxiv.org/abs/2202.10816)
