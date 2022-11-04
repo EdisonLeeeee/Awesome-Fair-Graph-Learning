@@ -24,6 +24,8 @@
 + GUIDE: Group Equality Informed Individual Fairness in Graph Neural Network, [[KDD]](http://www.ece.virginia.edu/~jl6qk/paper/KDD22_Group_Informed_Individual_Fairness.pdf), [[Code]](https://github.com/weihaosong/GUIDE)
 + Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks, [[ICDM]](https://arxiv.org/abs/2209.05957), [[Code]](https://github.com/mengcao327/attack-gnn-fairness)
 + Uncovering the Structural Fairness in Graph Contrastive Learning, [[NeurIPS]](https://arxiv.org/abs/2210.03011)
++ Item-based Variational Auto-encoder for Fair Music Recommendation, [[CIKM]](https://arxiv.org/abs/2211.01333)
++ Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph Node Classifiers, [[IEEE Big Data]](https://arxiv.org/abs/2211.00783)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
