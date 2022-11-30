@@ -3,6 +3,9 @@
 
 ![demo](demo.jpg)
 
+## 2023
++ Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]] (https://github.com/yushundong/BIND)
+
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
 + Learning Fair Node Representations with Graph Counterfactual Fairness, [[WSDM]](https://arxiv.org/abs/2201.03662)
