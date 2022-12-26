@@ -29,6 +29,7 @@
 + Uncovering the Structural Fairness in Graph Contrastive Learning, [[NeurIPS]](https://arxiv.org/abs/2210.03011)
 + Item-based Variational Auto-encoder for Fair Music Recommendation, [[CIKM]](https://arxiv.org/abs/2211.01333)
 + Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph Node Classifiers, [[IEEE Big Data]](https://arxiv.org/abs/2211.00783)
++ Graph Learning with Localized Neighborhood Fairness, [[arXiv]](https://arxiv.org/abs/2212.12040)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
