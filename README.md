@@ -27,7 +27,7 @@
 + On Graph Neural Network Fairness in the Presence of Heterophilous Neighborhoods, [[KDD workshop]](https://arxiv.org/abs/2207.04376) 
 + GUIDE: Group Equality Informed Individual Fairness in Graph Neural Network, [[KDD]](http://www.ece.virginia.edu/~jl6qk/paper/KDD22_Group_Informed_Individual_Fairness.pdf), [[Code]](https://github.com/weihaosong/GUIDE)
 + Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks, [[ICDM]](https://arxiv.org/abs/2209.05957), [[Code]](https://github.com/mengcao327/attack-gnn-fairness)
-+ Uncovering the Structural Fairness in Graph Contrastive Learning, [[NeurIPS]](https://arxiv.org/abs/2210.03011)
++ Uncovering the Structural Fairness in Graph Contrastive Learning, [[NeurIPS]](https://arxiv.org/abs/2210.03011), [[Code]](https://github.com/BUPT-GAMMA/Uncovering-the-Structural-Fairness-in-Graph-Contrastive-Learning)
 + Item-based Variational Auto-encoder for Fair Music Recommendation, [[CIKM]](https://arxiv.org/abs/2211.01333)
 + Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph Node Classifiers, [[IEEE Big Data]](https://arxiv.org/abs/2211.00783)
 + Graph Learning with Localized Neighborhood Fairness, [[arXiv]](https://arxiv.org/abs/2212.12040)
