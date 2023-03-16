@@ -8,6 +8,8 @@
 + On Generalized Degree Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.03881)
 + Fair Attribute Completion on Graph with Missing Attributes, [[arXiv]](https://arxiv.org/abs/2302.12977)
 + Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.11479)
++ Graph Neural Network Surrogates of Fair Graph Filtering, [[arXiv]](https://arxiv.org/abs/2303.08157)
++ Learning Fair Graph Representations via Automated Data Augmentations, [[ICLR]](https://openreview.net/forum?id=1_OGWcP1s9w)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
