@@ -4,7 +4,7 @@
 ![demo](demo.jpg)
 
 ## 2023
-+ Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]] (https://github.com/yushundong/BIND)
++ Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
 + On Generalized Degree Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.03881)
 + Fair Attribute Completion on Graph with Missing Attributes, [[arXiv]](https://arxiv.org/abs/2302.12977)
 + Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.11479)
