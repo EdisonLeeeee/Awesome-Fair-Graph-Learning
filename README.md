@@ -10,6 +10,8 @@
 + Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.11479)
 + Graph Neural Network Surrogates of Fair Graph Filtering, [[arXiv]](https://arxiv.org/abs/2303.08157)
 + Learning Fair Graph Representations via Automated Data Augmentations, [[ICLR]](https://openreview.net/forum?id=1_OGWcP1s9w)
++ FairGen: Towards Fair Graph Generation, [[arXiv]](https://arxiv.org/abs/2303.17743)
++ Fair Evaluation of Graph Markov Neural Networks, [[arXiv]](http://arxiv.org/abs/2304.01235)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
