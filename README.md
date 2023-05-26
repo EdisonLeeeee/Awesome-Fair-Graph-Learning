@@ -12,6 +12,8 @@
 + Learning Fair Graph Representations via Automated Data Augmentations, [[ICLR]](https://openreview.net/forum?id=1_OGWcP1s9w)
 + FairGen: Towards Fair Graph Generation, [[arXiv]](https://arxiv.org/abs/2303.17743)
 + Fair Evaluation of Graph Markov Neural Networks, [[arXiv]](http://arxiv.org/abs/2304.01235)
++ GFairHint: Improving Individual Fairness for Graph Neural Networks via Fairness Hint, [[arXiv]](https://arxiv.org/abs/2305.15622)
++ Towards Label Position Bias in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2305.15822)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
