@@ -14,6 +14,7 @@
 + Fair Evaluation of Graph Markov Neural Networks, [[arXiv]](http://arxiv.org/abs/2304.01235)
 + GFairHint: Improving Individual Fairness for Graph Neural Networks via Fairness Hint, [[arXiv]](https://arxiv.org/abs/2305.15622)
 + Towards Label Position Bias in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2305.15822)
++ BeMap: Balanced Message Passing for Fair Graph Neural Network, [[arXiv]](https://arxiv.org/abs/2306.04107)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
