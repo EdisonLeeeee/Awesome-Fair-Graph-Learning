@@ -44,6 +44,7 @@
 + Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph Node Classifiers, [[IEEE Big Data]](https://arxiv.org/abs/2211.00783)
 + Graph Learning with Localized Neighborhood Fairness, [[arXiv]](https://arxiv.org/abs/2212.12040)
 + Graph Self-supervised Learning with Accurate Discrepancy Learning, [[NeurIPS]](https://arxiv.org/abs/2202.02989), [[Code]](https://github.com/DongkiKim95/D-SLA)
++ On the Discrimination Risk of Mean Aggregation Feature Imputation in Graphs, [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d4c2f25bf0c33065b7d4fb9be2a9add1-Abstract-Conference.html)
 
 ## 2021
 + FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2104.14210), [[Code]](https://github.com/ispamm/FairDrop)
