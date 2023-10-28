@@ -21,6 +21,7 @@
 + Adversarial Attacks on Fairness of Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2310.13822)
 + Fairness-aware Optimal Graph Filter Design, [[arXiv]](https://arxiv.org/abs/2310.14432)
 + Marginal Nodes Matter: Towards Structure Fairness in Graphs, [[arXiv]](https://arxiv.org/abs/2310.14527)
++ Deceptive Fairness Attacks on Graphs via Meta Learning, [[arXiv]](https://arxiv.org/abs/2310.15653)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
