@@ -18,6 +18,9 @@
 + Fairness-aware Message Passing for Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2306.11132)
 + Improving Fairness of Graph Neural Networks: A Graph Counterfactual Perspective, [[arXiv]](https://arxiv.org/abs/2307.04937)
 + Fairness-Aware Graph Neural Networks: A Survey, [[arXiv]](https://arxiv.org/abs/2307.03929)
++ Adversarial Attacks on Fairness of Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2310.13822)
++ Fairness-aware Optimal Graph Filter Design, [[arXiv]](https://arxiv.org/abs/2310.14432)
++ Marginal Nodes Matter: Towards Structure Fairness in Graphs, [[arXiv]](https://arxiv.org/abs/2310.14527)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
