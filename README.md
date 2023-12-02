@@ -24,6 +24,7 @@
 + Deceptive Fairness Attacks on Graphs via Meta Learning, [[arXiv]](https://arxiv.org/abs/2310.15653)
 + ELEGANT: Certified Defense on the Fairness of Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2311.02757), [[Code]](https://github.com/yushundong/ELEGANT)
 + A Unified Framework for Fair Spectral Clustering With Effective Graph Learning, [[arXiv]](https://arxiv.org/abs/2311.13766)
++ The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation, [[WSDM]](https://arxiv.org/abs/2311.17373), [[Code]](https://github.com/zzoomd/fairgkd)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
