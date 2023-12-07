@@ -3,6 +3,9 @@
 
 ![demo](demo.jpg)
 
+## 2024
++ The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation, [[WSDM]](https://arxiv.org/abs/2311.17373), [[Code]](https://github.com/zzoomd/fairgkd)
+
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
 + On Generalized Degree Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2302.03881)
