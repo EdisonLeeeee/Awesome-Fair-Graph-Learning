@@ -31,6 +31,7 @@
 + A Unified Framework for Fair Spectral Clustering With Effective Graph Learning, [[arXiv]](https://arxiv.org/abs/2311.13766)
 + The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation, [[WSDM]](https://arxiv.org/abs/2311.17373), [[Code]](https://github.com/zzoomd/fairgkd)
 + Understanding Community Bias Amplification in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2312.04883)
++ Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction, [[GLFrontiers, NeurIPS 2023]](https://openreview.net/forum?id=9ADkymyCPA)
 
 ## 2022
 + Fairness Amidst Non-IID Graph Data: A Literature Review, [[arXiv]](https://arxiv.org/abs/2202.07170)
