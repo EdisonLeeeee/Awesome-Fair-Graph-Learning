@@ -8,6 +8,7 @@
 + No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation, [[AAAI]](https://arxiv.org/abs/2312.10080)
 + Chasing Fairness in Graphs: A GNN Architecture Perspective, [[AAAI]](https://arxiv.org/abs/2312.12369), [[Code]](https://github.com/zhimengj0326/FMP)
 + Towards Fair Graph Federated Learning via Incentive Mechanisms, [[AAAI]](https://arxiv.org/abs/2312.13306), [[Code]](https://github.com/zjunet/fairgraphfl)
++ Interventional Fairness on Partially Known Causal Graphs: A Constrained Optimization Approach, [[ICLR]](https://arxiv.org/abs/2401.10632)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
