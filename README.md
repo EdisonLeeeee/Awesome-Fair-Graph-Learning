@@ -14,7 +14,8 @@
 + Disambiguated Node Classification with Graph Neural Networks, [[WWW]](https://arxiv.org/abs/2402.08824), [[Code]](https://github.com/tianxiangzhao/disambiguatedgnn)
 + Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering, [[PAKDD]](https://arxiv.org/abs/2402.10756)
 + GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2402.12937)
-+ Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization, [[AAAI]](), [[Code]](https://github.com/BUPT-GAMMA/FairSIN)
++ Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization, [[AAAI]](http://www.shichuan.org/doc/166.pdf), [[Code]](https://github.com/BUPT-GAMMA/FairSIN)
++ Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation, [[arXiv]](https://arxiv.org/abs/2402.15988), [[Code]](https://github.com/nigelnnk/fairgad)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
