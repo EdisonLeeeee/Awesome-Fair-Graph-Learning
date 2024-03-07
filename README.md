@@ -10,7 +10,7 @@
 + Towards Fair Graph Federated Learning via Incentive Mechanisms, [[AAAI]](https://arxiv.org/abs/2312.13306), [[Code]](https://github.com/zjunet/fairgraphfl)
 + Interventional Fairness on Partially Known Causal Graphs: A Constrained Optimization Approach, [[ICLR]](https://arxiv.org/abs/2401.10632)
 + MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage, [[arXiv]](https://arxiv.org/abs/2401.12824)
-+ Graph Fairness Learning under Distribution Shifts, [[WWW]](https://arxiv.org/abs/2401.16784)
++ Graph Fairness Learning under Distribution Shifts, [[WWW]](https://arxiv.org/abs/2401.16784), [[Code]](https://github.com/liushiliushi/FatraGNN)
 + Disambiguated Node Classification with Graph Neural Networks, [[WWW]](https://arxiv.org/abs/2402.08824), [[Code]](https://github.com/tianxiangzhao/disambiguatedgnn)
 + Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering, [[PAKDD]](https://arxiv.org/abs/2402.10756)
 + GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2402.12937)
