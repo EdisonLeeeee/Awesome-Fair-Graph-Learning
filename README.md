@@ -4,6 +4,9 @@
 ![demo](demo.jpg)
 
 ## 2024
+
++ FairGT: A Fairness-aware Graph Transformer, [[IJCAI]](https://arxiv.org/abs/2404.17169), [[Code]](https://github.com/yushuowiki/fairgt)
++ Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2404.17511)
 + The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation, [[WSDM]](https://arxiv.org/abs/2311.17373), [[Code]](https://github.com/zzoomd/fairgkd)
 + No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation, [[AAAI]](https://arxiv.org/abs/2312.10080)
 + Chasing Fairness in Graphs: A GNN Architecture Perspective, [[AAAI]](https://arxiv.org/abs/2312.12369), [[Code]](https://github.com/zhimengj0326/FMP)
