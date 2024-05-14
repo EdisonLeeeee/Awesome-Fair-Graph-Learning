@@ -15,7 +15,7 @@
 + MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage, [[arXiv]](https://arxiv.org/abs/2401.12824)
 + Graph Fairness Learning under Distribution Shifts, [[WWW]](https://arxiv.org/abs/2401.16784), [[Code]](https://github.com/liushiliushi/FatraGNN)
 + Disambiguated Node Classification with Graph Neural Networks, [[WWW]](https://arxiv.org/abs/2402.08824), [[Code]](https://github.com/tianxiangzhao/disambiguatedgnn)
-+ Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering, [[PAKDD]](https://arxiv.org/abs/2402.10756)
++ Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering, [[PAKDD]](https://arxiv.org/abs/2402.10756), [[Code]](https://github.com/siamakghodsi/ifairnmtf)
 + GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2402.12937)
 + Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization, [[AAAI]](https://arxiv.org/abs/2403.12474), [[Code]](https://github.com/BUPT-GAMMA/FairSIN)
 + Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation, [[arXiv]](https://arxiv.org/abs/2402.15988), [[Code]](https://github.com/nigelnnk/fairgad)
