@@ -20,6 +20,7 @@
 + Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization, [[AAAI]](https://arxiv.org/abs/2403.12474), [[Code]](https://github.com/BUPT-GAMMA/FairSIN)
 + Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation, [[arXiv]](https://arxiv.org/abs/2402.15988), [[Code]](https://github.com/nigelnnk/fairgad)
 + Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark, [[arXiv]](https://arxiv.org/abs/2403.06017), [[Code]](https://github.com/xweiq/benchmark-graphfairness)
++ Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2404.03139), [[Code]](https://github.com/ArjunSubramonian/degree-bias-exploration)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
@@ -44,7 +45,7 @@
 + A Unified Framework for Fair Spectral Clustering With Effective Graph Learning, [[arXiv]](https://arxiv.org/abs/2311.13766)
 + The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation, [[WSDM]](https://arxiv.org/abs/2311.17373), [[Code]](https://github.com/zzoomd/fairgkd)
 + Understanding Community Bias Amplification in Graph Representation Learning, [[arXiv]](https://arxiv.org/abs/2312.04883)
-+ Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction, [[GLFrontiers, NeurIPS]](https://openreview.net/forum?id=9ADkymyCPA)
++ Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction, [[ICML, NeurIPS GLFrontiers]](https://openreview.net/forum?id=9ADkymyCPA)
 + FairSample: Training Fair and Accurate Graph Convolutional Neural Networks Efficiently, [[TKDE]](https://arxiv.org/abs/2401.14702)
 
 ## 2022
