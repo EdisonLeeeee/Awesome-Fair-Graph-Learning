@@ -22,6 +22,7 @@
 + Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark, [[arXiv]](https://arxiv.org/abs/2403.06017), [[Code]](https://github.com/xweiq/benchmark-graphfairness)
 + Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks, [[arXiv]](https://arxiv.org/abs/2404.03139), [[Code]](https://github.com/ArjunSubramonian/degree-bias-exploration)
 + Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement, [[arXiv]](https://arxiv.org/abs/2406.00987), [[Code]](https://github.com/AhaChang/DEFEND)
++ Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections, [[arXiv]](https://arxiv.org/abs/2406.03052), [[Code]](https://github.com/LuoZhhh/NIFA)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
