@@ -24,6 +24,7 @@
 + Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement, [[arXiv]](https://arxiv.org/abs/2406.00987), [[Code]](https://github.com/AhaChang/DEFEND)
 + Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections, [[arXiv]](https://arxiv.org/abs/2406.03052), [[Code]](https://github.com/LuoZhhh/NIFA)
 + Endowing Pre-trained Graph Models with Provable Fairness, [[WWW]](https://arxiv.org/abs/2402.12161), [[Code]](https://github.com/BUPT-GAMMA/GraphPAR)
++ One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes, [[KDD]](https://arxiv.org/abs/2406.13544), [[Code]](https://github.com/ZzoomD/FairINV/)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
