@@ -28,6 +28,7 @@
 + Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach, [[arXiv]](https://arxiv.org/abs/2406.13201)
 + Mind the Graph When Balancing Data for Fairness or Robustness, [[arXiv]](https://arxiv.org/abs/2406.17433)
 + Rethinking Fair Graph Neural Networks from Re-balancing, [[KDD]](https://arxiv.org/abs/2407.11624), [[Code]](https://github.com/zhixunlee/fairgb)
++ Fair Augmentation for Graph Collaborative Filtering, [[arXiv]](https://arxiv.org/abs/2408.12208), [[Code]](https://github.com/jackmedda/FA4GCF)
 
 ## 2023
 + Interpreting Unfairness in Graph Neural Networks via Training Node Attribution, [[AAAI]](https://arxiv.org/abs/2211.14383), [[Code]](https://github.com/yushundong/BIND)
